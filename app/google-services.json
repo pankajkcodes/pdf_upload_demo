@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "92006313577",
+    "firebase_url": "https://pdf-upload-demo-default-rtdb.firebaseio.com",
+    "project_id": "pdf-upload-demo",
+    "storage_bucket": "pdf-upload-demo.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:92006313577:android:c74a264b5d35cae4fefcf8",
+        "android_client_info": {
+          "package_name": "com.pankajkcodes.pdfuploaddemo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "92006313577-ttfbkamovv78kr1dts55ioapkm5e0r2c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCwFhx4KtlUvBmacF-6ER6B0yQm_EtWfJA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "92006313577-ttfbkamovv78kr1dts55ioapkm5e0r2c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
